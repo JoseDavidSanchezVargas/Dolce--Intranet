@@ -310,7 +310,26 @@ $(document).ready(function() {
         }
 		  
 		});
-		
+	
+	
+	/* OPEN MENU CATEGORIAS */
+	
+    $(".btn-catg-gift").click(function(e) {
+        if ($(".colum-menu-01").hasClass('close-m-r9')) {
+            $(".colum-menu-01").addClass('open-m-r9').removeClass('close-m-r9');
+			$("body").addClass('catg-gift-active');
+        } 
+    });	
+	
+	    $(".site-overlay-03").click(function(e) {
+        if ($(".colum-menu-01").hasClass('open-m-r9')) {
+            $(".colum-menu-01").addClass('close-m-r9').removeClass('open-m-r9');
+			$("body").removeClass('catg-gift-active'); 
+        } 
+    });		
+	
+    /* END OPEN MENU CATEGORIAS */
+
 
         <!-- END Show tables -->
 

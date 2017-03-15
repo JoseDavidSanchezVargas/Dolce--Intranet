@@ -45,7 +45,10 @@ var fixto = (function ($, window, document) {
             this.element = element;
             this.replacer = document.createElement('div');
             this.replacer.style.visibility = 'hidden';
+			this.replacer.className = 'stick-space';
             this.hide();
+	
+			
             element.parentNode.insertBefore(this.replacer, element);
         }
 
