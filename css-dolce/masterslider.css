@@ -178,7 +178,7 @@
 .ms-skin-default .ms-nav-next, 
 .ms-skin-default .ms-nav-prev{width:10%; height:100%; /*background:url(../images-dolce/slider/light-skin-1.png); background-position:-89px -26px; */  cursor:url(../images-dolce/arrow-l.svg) 23 44,auto; top:0; left:0px; margin-top:-20px; position:absolute; z-index:110}
 .ms-skin-default .ms-nav-next{width:40%; height:100%; right:0px; left:auto; /*background-position:-89px -103px; */ cursor:url(../images-dolce/arrow-r.svg) 23 44,auto}
-.ms-skin-default .ms-bullet{width:10px; height:10px; background-color:rgba(223,0,124,1.00); /*background:url(../images-dolce/slider/light-skin-1.png) no-repeat; background-position:-34px -117px*/ margin:4px; border-radius:100%; -webkit-border-radius:100%}
+.ms-skin-default .ms-bullet{width:10px; height:10px; background-color:rgba(0,0,0,1.00); /*background:url(../images-dolce/slider/light-skin-1.png) no-repeat; background-position:-34px -117px*/ margin:4px; border-radius:100%; -webkit-border-radius:100%}
 .ms-skin-default .ms-bullet-selected{ background-color:rgba(70,76,82,1.00); /*background-position:-34px -84px*/ transform:scale(1.2); -webkit-transform:scale(1.2)}
 
 
