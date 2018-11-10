@@ -301,7 +301,8 @@
 .cartera-nueva-icon-01,
 .estencil-icon-01,
 .digitar-pedido-icon-01,
-.catalogo-premios-icon-01 {width:75px; height:64px; background-repeat:no-repeat; background-size: 100% auto; display:inline-block;}
+.catalogo-premios-icon-01,
+.pago-factura-icon-01 {width:75px; height:64px; background-repeat:no-repeat; background-size: 100% auto; display:inline-block;}
 
 .cartera-icon-01 {background-image:url(../images-dolce/icons/cartera-icon.svg); }
 .variable-ventas-icon-01 {background-image:url(../images-dolce/icons/variable-ventas-icon.svg); }
@@ -316,6 +317,7 @@
 .estencil-icon-01 {background-image:url(../images-dolce/icons/estencil-icon.svg); }
 .digitar-pedido-icon-01 {background-image:url(../images-dolce/icons/digitar-pedido-icon.svg); }
 .catalogo-premios-icon-01 {background-image:url(../images-dolce/icons/catalogo-premios-icon.svg); }
+.pago-factura-icon-01 {background-image:url(../images-dolce/icons/pago-factura-icon.svg); }
   
   .warning-icon,
   .ok-icon { width:63px; height:57px;}
